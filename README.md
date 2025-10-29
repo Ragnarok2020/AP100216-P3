@@ -1,6 +1,8 @@
 # AP100216-P3
 Finix
+
 https://money-class-5374.glide.page
+
 https://ufgedu-my.sharepoint.com/:w:/g/personal/ia_jaime2015_ufg_edu_sv/EWNdpUl6MGFBkJaLV1lglxYBN_QSOnPalNQnBTZaptiCHA?e=oeB6gU
 
 #Proyecto: Finix - App No-Code BNPL (Buy Now, Pay Later)
